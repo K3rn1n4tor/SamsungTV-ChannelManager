@@ -11,3 +11,16 @@
 *.lai
 *.la
 *.a
+
+# VS generated folder
+*Debug
+*Release
+*Data
+*Win32
+*x64
+
+# VS generated files
+*.suo
+*.sdf
+*.obj
+*.opensdf
