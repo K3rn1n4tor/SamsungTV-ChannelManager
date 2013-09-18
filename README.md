@@ -1,11 +1,13 @@
 ===========================
-===========================
-Author: Michael Kern
-Date: 18.09.2013
-
 Samsung TV - ChannelManager
 ===========================
-===========================
+
+Info
+====
+
+- Author: Michael Kern
+- Date: 18.09.2013
+- Version: 0.0.1
 
 Description
 ===========
